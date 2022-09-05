@@ -1,4 +1,4 @@
-# e-Homicidios
+# e-Homicídios
 Classificação dos Homicídios simples, privilegiado, qualificado e culposo.
 
 
