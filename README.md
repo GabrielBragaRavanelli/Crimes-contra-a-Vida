@@ -1,5 +1,5 @@
 # e-Homicídios
-Classificação dos Homicídios simples, privilegiado, qualificado e culposo.
+Classificação dos Homicídios: simples, privilegiado, qualificado e culposo.
 
 
 HOMICÍDIO SIMPLES - Art. 121
