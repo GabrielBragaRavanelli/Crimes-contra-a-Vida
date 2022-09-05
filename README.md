@@ -29,6 +29,7 @@ HOMICÍDIO PRIVILEGIADO - art. 121, inciso 1
      - Dissimulaçâo
      - Dificultar a defesa da vítima
      - Crime de conexâo
+     
        EXEMPLO: CASO DO GOLEIRO BRUNO - 
                 - Torpe
                 - Meio Cruel
