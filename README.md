@@ -14,19 +14,19 @@ HOMICÍDIO PRIVILEGIADO - art. 121, inciso 1
    - Relevante valor social: Interesse coletivo.
      - EX: Matar o estuprador da cidade, matar o assaltante do bairro, etc.
    - Violenta emoçâo: Quando o indivídio apresenta ira depois de sofrer uma injusta provocaçâo
-     - EX: um pai é sequestrado e o sequestrador o obriga a assisti-lo estuprando a filha. Além disso, o ser preso, o sequestrador provoca a pessoa, sorrindo ou piscando. Assim, este pai, se matar o sequestrador, neste momento, estará claramente sob o domínio de violenta emoção e foi provocado injustamente pela vítima.
+     - EX: Um pai é sequestrado e o sequestrador o obriga a assisti-lo estuprando a filha. Além disso, o ser preso, o sequestrador provoca a pessoa, sorrindo ou piscando. Assim, este pai, se matar o sequestrador, neste momento, estará claramente sob o domínio de violenta emoção e foi provocado injustamente pela vítima.
  
  HOMICÍDIO QUALIFICADO - art. 121, inciso 2
    - Pena: 12 a 30 anos
    
    - Classificaçâo
-     - Torpe ou futil - NÃO PODE SER OS DOIS JUNTOS
+     - Torpe ou Fútil - NÃO PODE SER OS DOIS JUNTOS
      - Veneno, Meio cruel, explosão
      - Emboscada
      - Feminicidio
      - Matar segurança ou conjûgues
      - Traição
-     - Dissimulaçâo
+     - Dissimulação
      - Dificultar a defesa da vítima
      - Crime de conexâo
      
@@ -41,7 +41,7 @@ HOMICÍDIO PRIVILEGIADO - art. 121, inciso 1
  HOMICÍDIO CULPOSO - art. 121, inciso 3
    - Quando não tem a intenção de matar
    - Possui três classificaçôes:
-     - Imperíricia: Pratica de um ato perigoso
+     - Imperícia: Pratica de um ato perigoso
      - Negligência: Quando o indivíduo pratica uma conduta que deveria ser feita com uma maior cautela 
      - Imprudência: Falta de aptidâo para o exercicio da arte, profissâo.
    
