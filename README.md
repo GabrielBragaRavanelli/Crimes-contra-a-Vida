@@ -24,7 +24,7 @@ HOMICÍDIO PRIVILEGIADO - art. 121, inciso 1
      - Veneno, Meio cruel, explosão
      - Emboscada
      - Feminicidio
-     - Matar segurança ou conjûgues
+     - Matar segurança Público ou conjûgues
      - Traição
      - Dissimulação
      - Dificultar a defesa da vítima
