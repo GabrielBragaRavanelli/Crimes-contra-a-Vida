@@ -7,7 +7,7 @@ HOMICÍDIO SIMPLES - Art. 121
    
 HOMICÍDIO PRIVILEGIADO - art. 121, inciso 1
    - Diminuiçâo da pena em 1/3 a 1/6
-   - Acontece quando o indivídio pratica a conduta com relevante valor moral, social e violenta emoção
+   - Acontece quando o indivídio pratica uma conduta com relevante valor moral, social e violenta emoção
    
    - Relevante valor moral: Interesse individual.
      - EX: Matar o estuprador da sua filha, matar o assassino do seu pai, matar o assaltante da sua casa, etc.
