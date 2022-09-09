@@ -5,7 +5,7 @@ Classificação dos Homicídios: simples, privilegiado, qualificado e culposo.
 HOMICÍDIO SIMPLES - Art. 121
    - Pena: 6 a 20 anos
    
-HOMICÍDIO PRIVILEGIADO - art. 121, inciso 1
+HOMICÍDIO PRIVILEGIADO - art. 121, parágrafo 1
    - Diminuiçâo da pena em 1/3 a 1/6
    - Acontece quando o indivídio pratica uma conduta com relevante valor moral, social e violenta emoção
    
@@ -16,7 +16,7 @@ HOMICÍDIO PRIVILEGIADO - art. 121, inciso 1
    - Violenta emoçâo: Quando o indivídio apresenta ira depois de sofrer uma injusta provocaçâo
      - EX: Um pai é sequestrado e o sequestrador o obriga a assisti-lo estuprando a filha. Além disso, o ser preso, o sequestrador provoca a pessoa, sorrindo ou piscando. Assim, este pai, se matar o sequestrador, neste momento, estará claramente sob o domínio de violenta emoção e foi provocado injustamente pela vítima.
  
- HOMICÍDIO QUALIFICADO - art. 121, inciso 2
+ HOMICÍDIO QUALIFICADO - art. 121, parágrafo 2
    - Pena: 12 a 30 anos
    
    - Classificaçâo
@@ -38,7 +38,7 @@ HOMICÍDIO PRIVILEGIADO - art. 121, inciso 1
      
  OBSERVAÇÂO: O crime de homicídio privilegiado pode acontecer junto com o homicídio qualificado
  
- HOMICÍDIO CULPOSO - art. 121, inciso 3
+ HOMICÍDIO CULPOSO - art. 121, parágrafo 3
    - Quando não tem a intenção de matar
    - Possui três classificaçôes:
      - Imperícia: Pratica de um ato perigoso
