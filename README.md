@@ -45,7 +45,7 @@ HOMICÍDIO PRIVILEGIADO - art. 121, parágrafo 1
      - Negligência: Quando o indivíduo pratica uma conduta que deveria ser feita com uma maior cautela 
      - Imprudência: Falta de aptidâo para o exercicio da arte, profissâo.
      
- PARTICIPAÇÃO EM SUICIDO
+ PARTICIPAÇÃO EM SUICIDO - art. 122
  - Induzir, Instigar, Auxiliar alguém a suicidio 
    - Induzir: Colocar a ideia de suicidio na cabeça do indivíduo
    - Instingar: Reforçar a idea de suicidio 
@@ -56,4 +56,20 @@ HOMICÍDIO PRIVILEGIADO - art. 121, parágrafo 1
  - Pena aumentada pela metade caso o indivíduo seja lider ou coordenador de uma comunidade de grupo ou rede social
  - Caso um individuo induza uma criança menor de 14 anos, será considerado homicidio 
  - Caso a automutilação ou tentativa de suicidio resulte em lesão corporal grave ou gravissima, respodende por lesão corporal - art.129 cp
+
+FEMICIDIO - art.123
+- Matar, sob a influência do estado puerperal, o próprio filho, durante o parto ou logo após
+
+ABORTO
+- Permitidos por lei
+  - Aborto terapêutico (artigo 128, inciso I): É realizado quando não há outro meio de salvar a vida da gestante.
+  - Aborto sentimental e humanitário (artigo 128, inciso II): É o aborto autorizado quando a gravidez é resultante de estupro.
+
+- Proibidos por lei
+  - Aborto culposo: É o aborto que resulta de culpa, de uma conduta imprudente, negligente ou imperita.
+  - Aborto eugênico/eugenésio: aborto realizado quando o feto apresenta graves e irreversíveis defeitos genéticos. Exemplo: feto anencefálico.
+  - Aborto provocado pela gestante (artigo 124, 1ª parte);
+  - Aborto provocado por terceiro, sem ou com o consentimento (artigo 125 e 126);
+  - Consentimento da gestante para o abortamento praticado por outrem (artigo 124).
+  - A conduta prevista no artigo 125, o abortamento sem o consentimento da gestante, é a forma mais grave do delito, ao qual é aplicada maior pena em abstrato.
  
