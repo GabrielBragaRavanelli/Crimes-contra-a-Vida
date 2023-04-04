@@ -44,5 +44,16 @@ HOMICÍDIO PRIVILEGIADO - art. 121, parágrafo 1
      - Imperícia: Pratica de um ato perigoso
      - Negligência: Quando o indivíduo pratica uma conduta que deveria ser feita com uma maior cautela 
      - Imprudência: Falta de aptidâo para o exercicio da arte, profissâo.
+     
+ PARTICIPAÇÃO EM SUICIDO
+ - Induzir, Instigar, Auxiliar alguém a suicidio 
+   - Induzir: Colocar a ideia de suicidio na cabeça do indivíduo
+   - Instingar: Reforçar a idea de suicidio 
+   - Auxiliar: Entregar objjetos(corda e cadeira) para o suicidade
    
+ - Pena aumentada é duplicada se praticada por meio de egoisto, futil e torpe
+ - Pena aumentada até o dobro se praticada por meio de rede de computadores, rede social e transmitida ao vivo
+ - Pena aumentada pela metade caso o indivíduo seja lider ou coordenador de uma comunidade de grupo ou rede social
+ - Caso um individuo induza uma criança menor de 14 anos, será considerado homicidio 
+ - Caso a automutilação ou tentativa de suicidio resulte em lesão corporal grave ou gravissima, respodende por lesão corporal - art.129 cp
  
