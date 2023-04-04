@@ -1,5 +1,5 @@
-# e-Homicídios
-Classificação dos Homicídios: simples, privilegiado, qualificado e culposo.
+# Crimes contra a Vida
+Classificação dos Homicídios: simples, privilegiado, qualificado e culposo; Participação em suicidio; feminicidio; aborto
 
 
 HOMICÍDIO SIMPLES - Art. 121
